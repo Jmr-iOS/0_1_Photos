@@ -18,6 +18,7 @@ import UIKit
 let verbose : Bool    = false;
 let globals : Globals = Globals();
 
+//Media Library Authorization Levels
 //@ref  https://developer.apple.com/documentation/mediaplayer/mpmedialibraryauthorizationstatus
 let MEDIA_LIB_AUTH_NOT_DETERMINED : Int = 0;
 let MEDIA_LIB_AUTH_DENIED         : Int = 1;

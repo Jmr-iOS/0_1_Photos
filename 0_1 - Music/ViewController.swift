@@ -1,11 +1,11 @@
 /************************************************************************************************************************************/
 /** @file		ViewController.swift
- *  @project    0_0 - Empty Template (Swift)
+ *  @project    0_1 - Music
  * 	@brief		x
  * 	@details	x
  *
  * 	@author		Justin Reina, Firmware Engineer, Jaostech
- * 	@created	11/12/15
+ * 	@created	11/10/17
  * 	@last rev	x
  *
  *
@@ -32,7 +32,9 @@ class ViewController: UIViewController {
         optDemo_addButton(self.view);
         makeAMonsterousLabel(self.view);
         
-        let _ = Music();
+        //process lib
+        let music = Music();
+        music.parseArtists();
         
         print("ViewController.viewDidLoad():       viewDidLoad() complete");
         
