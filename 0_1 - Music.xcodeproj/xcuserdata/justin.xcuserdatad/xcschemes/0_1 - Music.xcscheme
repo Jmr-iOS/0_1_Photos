@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D039B4B51BF4D7950024005F"
-               BuildableName = "0_0 - Empty Template (Swift).app"
-               BlueprintName = "0_0 - Empty Template (Swift)"
-               ReferencedContainer = "container:0_0 - Empty Template (Swift).xcodeproj">
+               BuildableName = "0_1 - Music.app"
+               BlueprintName = "0_1 - Music"
+               ReferencedContainer = "container:0_1 - Music.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,9 +34,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D039B4B51BF4D7950024005F"
-            BuildableName = "0_0 - Empty Template (Swift).app"
-            BlueprintName = "0_0 - Empty Template (Swift)"
-            ReferencedContainer = "container:0_0 - Empty Template (Swift).xcodeproj">
+            BuildableName = "0_1 - Music.app"
+            BlueprintName = "0_1 - Music"
+            ReferencedContainer = "container:0_1 - Music.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,9 +58,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D039B4B51BF4D7950024005F"
-            BuildableName = "0_0 - Empty Template (Swift).app"
-            BlueprintName = "0_0 - Empty Template (Swift)"
-            ReferencedContainer = "container:0_0 - Empty Template (Swift).xcodeproj">
+            BuildableName = "0_1 - Music.app"
+            BlueprintName = "0_1 - Music"
+            ReferencedContainer = "container:0_1 - Music.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D039B4B51BF4D7950024005F"
-            BuildableName = "0_0 - Empty Template (Swift).app"
-            BlueprintName = "0_0 - Empty Template (Swift)"
-            ReferencedContainer = "container:0_0 - Empty Template (Swift).xcodeproj">
+            BuildableName = "0_1 - Music.app"
+            BlueprintName = "0_1 - Music"
+            ReferencedContainer = "container:0_1 - Music.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
