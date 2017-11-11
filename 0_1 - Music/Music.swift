@@ -34,39 +34,36 @@ import MediaPlayer
 
 class Music: NSObject {
 
+    var query : MPMediaQuery;
+    
     let authLvls : [String] = ["notDetermined", "denied", "restricted", "authorized"];
 
+    /********************************************************************************************************************************/
+    /** @fcn        override init()                                                                                                 */
+    /*  @brief      init the var                                                                                                    */
+    /********************************************************************************************************************************/
     override init() {
+        
+        //Init
+        self.query = MPMediaQuery();
         super.init();
         
-        print("Music...");
-
-        print(" ");
-        print("//----------------------//");
-        
-        let query = MPMediaQuery();
-
-        print("//--------A--------//");
-
+        //Find the media
         let result = query.items;
         
-        print("//--------B--------//");
-        
+        //Check auth
         let rslt : MPMediaLibraryAuthorizationStatus = MPMediaLibrary.authorizationStatus();
         let rslt_val : Int = rslt.rawValue;
         
+        //Handle auth
         print("Access level on device found as '\(authLvls[rslt_val])'");
-        
         
         if(MEDIA_LIB_AUTH_AUTHORIZED != rslt.rawValue) {
             print("Not authorized for library access, aborting.");
             return;
         }
         
-        print("//----------------------//");
-        print(" ");
-
-        
+        //Check Media
         if(result != nil) {
             print("Found", result!.count, "files");
         } else {
