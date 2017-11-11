@@ -1,11 +1,11 @@
 /************************************************************************************************************************************/
 /** @file		ViewController.swift
- *  @project    0_1 - Music
+ *  @project    0_1 - Photos
  * 	@brief		x
  * 	@details	x
  *
  * 	@author		Justin Reina, Firmware Engineer, Jaostech
- * 	@created	11/10/17
+ * 	@created	11/11/17
  * 	@last rev	x
  *
  *
@@ -33,8 +33,8 @@ class ViewController: UIViewController {
         makeAMonsterousLabel(self.view);
         
         //process lib
-        let music = Music();
-        music.parseArtists();
+        let photos = Photos();
+        photos.parseArtists();
         
         print("ViewController.viewDidLoad():       viewDidLoad() complete");
         

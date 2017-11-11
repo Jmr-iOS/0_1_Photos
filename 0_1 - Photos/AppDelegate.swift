@@ -1,11 +1,11 @@
 /************************************************************************************************************************************/
 /** @file		AppDelegate.swift
- *  @project    0_1 - Music
+ *  @project    0_1 - Photos
  * 	@brief		x
  * 	@details	x
  *
  * 	@author		Justin Reina, Firmware Engineer, Jaostech
- * 	@created	11/10/17
+ * 	@created	11/11/17
  * 	@last rev	x
  *
  *

@@ -9,27 +9,27 @@
 /* Begin PBXBuildFile section */
 		D039B4BA1BF4D7950024005F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D039B4B91BF4D7950024005F /* AppDelegate.swift */; };
 		D039B4BC1BF4D7950024005F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D039B4BB1BF4D7950024005F /* ViewController.swift */; };
-		D0A149631FB7457200098EC3 /* DataBackup.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A149611FB7457200098EC3 /* DataBackup.swift */; };
-		D0A149641FB7457200098EC3 /* Globals.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A149621FB7457200098EC3 /* Globals.swift */; };
-		D0A1496A1FB7458200098EC3 /* Base.lproj in Resources */ = {isa = PBXBuildFile; fileRef = D0A149651FB7458100098EC3 /* Base.lproj */; };
-		D0A1496B1FB7458200098EC3 /* Stdcomments.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A149661FB7458200098EC3 /* Stdcomments.swift */; };
-		D0A1496C1FB7458200098EC3 /* Empty.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0A149671FB7458200098EC3 /* Empty.storyboard */; };
-		D0A1496E1FB7458200098EC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0A149691FB7458200098EC3 /* Assets.xcassets */; };
-		D0A149701FB7467200098EC3 /* Music.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A1496F1FB7467200098EC3 /* Music.swift */; };
+		D03F6DE01FB7657400F0EF44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D03F6DDB1FB7657400F0EF44 /* Assets.xcassets */; };
+		D03F6DE11FB7657400F0EF44 /* Empty.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D03F6DDC1FB7657400F0EF44 /* Empty.storyboard */; };
+		D03F6DE21FB7657400F0EF44 /* Base.lproj in Resources */ = {isa = PBXBuildFile; fileRef = D03F6DDD1FB7657400F0EF44 /* Base.lproj */; };
+		D03F6DE41FB7657400F0EF44 /* Stdcomments.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03F6DDF1FB7657400F0EF44 /* Stdcomments.swift */; };
+		D03F6DE71FB7657C00F0EF44 /* Globals.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03F6DE51FB7657C00F0EF44 /* Globals.swift */; };
+		D03F6DE81FB7657C00F0EF44 /* DataBackup.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03F6DE61FB7657C00F0EF44 /* DataBackup.swift */; };
+		D0A149701FB7467200098EC3 /* Photos.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A1496F1FB7467200098EC3 /* Photos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D039B4B61BF4D7950024005F /* 0_1 - Music.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "0_1 - Music.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D039B4B61BF4D7950024005F /* 0_1 - Photos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "0_1 - Photos.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D039B4B91BF4D7950024005F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D039B4BB1BF4D7950024005F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D0A149611FB7457200098EC3 /* DataBackup.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DataBackup.swift; path = "0_1 - Music/Data/DataBackup.swift"; sourceTree = "<group>"; };
-		D0A149621FB7457200098EC3 /* Globals.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Globals.swift; path = "0_1 - Music/Data/Globals.swift"; sourceTree = "<group>"; };
-		D0A149651FB7458100098EC3 /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Base.lproj; path = "0_1 - Music/Base/Base.lproj"; sourceTree = "<group>"; };
-		D0A149661FB7458200098EC3 /* Stdcomments.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Stdcomments.swift; path = "0_1 - Music/Base/Stdcomments.swift"; sourceTree = "<group>"; };
-		D0A149671FB7458200098EC3 /* Empty.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Empty.storyboard; path = "0_1 - Music/Base/Empty.storyboard"; sourceTree = "<group>"; };
-		D0A149681FB7458200098EC3 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "0_1 - Music/Base/Info.plist"; sourceTree = "<group>"; };
-		D0A149691FB7458200098EC3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "0_1 - Music/Base/Assets.xcassets"; sourceTree = "<group>"; };
-		D0A1496F1FB7467200098EC3 /* Music.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Music.swift; sourceTree = "<group>"; };
+		D03F6DDB1FB7657400F0EF44 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "0_1 - Photos/Base/Assets.xcassets"; sourceTree = "<group>"; };
+		D03F6DDC1FB7657400F0EF44 /* Empty.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Empty.storyboard; path = "0_1 - Photos/Base/Empty.storyboard"; sourceTree = "<group>"; };
+		D03F6DDD1FB7657400F0EF44 /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Base.lproj; path = "0_1 - Photos/Base/Base.lproj"; sourceTree = "<group>"; };
+		D03F6DDE1FB7657400F0EF44 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "0_1 - Photos/Base/Info.plist"; sourceTree = "<group>"; };
+		D03F6DDF1FB7657400F0EF44 /* Stdcomments.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Stdcomments.swift; path = "0_1 - Photos/Base/Stdcomments.swift"; sourceTree = "<group>"; };
+		D03F6DE51FB7657C00F0EF44 /* Globals.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Globals.swift; path = "0_1 - Photos/Data/Globals.swift"; sourceTree = "<group>"; };
+		D03F6DE61FB7657C00F0EF44 /* DataBackup.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DataBackup.swift; path = "0_1 - Photos/Data/DataBackup.swift"; sourceTree = "<group>"; };
+		D0A1496F1FB7467200098EC3 /* Photos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,7 +46,7 @@
 		D039B4AD1BF4D7950024005F = {
 			isa = PBXGroup;
 			children = (
-				D039B4B81BF4D7950024005F /* 0_1 - Music */,
+				D039B4B81BF4D7950024005F /* 0_1 - Photos */,
 				D0DFAD221CB159B100555B21 /* Data */,
 				D0DFAD1F1CB158BA00555B21 /* Base */,
 				D039B4B71BF4D7950024005F /* Products */,
@@ -56,29 +56,29 @@
 		D039B4B71BF4D7950024005F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D039B4B61BF4D7950024005F /* 0_1 - Music.app */,
+				D039B4B61BF4D7950024005F /* 0_1 - Photos.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D039B4B81BF4D7950024005F /* 0_1 - Music */ = {
+		D039B4B81BF4D7950024005F /* 0_1 - Photos */ = {
 			isa = PBXGroup;
 			children = (
 				D039B4B91BF4D7950024005F /* AppDelegate.swift */,
 				D039B4BB1BF4D7950024005F /* ViewController.swift */,
-				D0A1496F1FB7467200098EC3 /* Music.swift */,
+				D0A1496F1FB7467200098EC3 /* Photos.swift */,
 			);
-			path = "0_1 - Music";
+			path = "0_1 - Photos";
 			sourceTree = "<group>";
 		};
 		D0DFAD1F1CB158BA00555B21 /* Base */ = {
 			isa = PBXGroup;
 			children = (
-				D0A149691FB7458200098EC3 /* Assets.xcassets */,
-				D0A149651FB7458100098EC3 /* Base.lproj */,
-				D0A149671FB7458200098EC3 /* Empty.storyboard */,
-				D0A149681FB7458200098EC3 /* Info.plist */,
-				D0A149661FB7458200098EC3 /* Stdcomments.swift */,
+				D03F6DDB1FB7657400F0EF44 /* Assets.xcassets */,
+				D03F6DDD1FB7657400F0EF44 /* Base.lproj */,
+				D03F6DDC1FB7657400F0EF44 /* Empty.storyboard */,
+				D03F6DDE1FB7657400F0EF44 /* Info.plist */,
+				D03F6DDF1FB7657400F0EF44 /* Stdcomments.swift */,
 			);
 			name = Base;
 			sourceTree = "<group>";
@@ -86,8 +86,8 @@
 		D0DFAD221CB159B100555B21 /* Data */ = {
 			isa = PBXGroup;
 			children = (
-				D0A149611FB7457200098EC3 /* DataBackup.swift */,
-				D0A149621FB7457200098EC3 /* Globals.swift */,
+				D03F6DE61FB7657C00F0EF44 /* DataBackup.swift */,
+				D03F6DE51FB7657C00F0EF44 /* Globals.swift */,
 			);
 			name = Data;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D039B4B51BF4D7950024005F /* 0_1 - Music */ = {
+		D039B4B51BF4D7950024005F /* 0_1 - Photos */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D039B4C81BF4D7950024005F /* Build configuration list for PBXNativeTarget "0_1 - Music" */;
+			buildConfigurationList = D039B4C81BF4D7950024005F /* Build configuration list for PBXNativeTarget "0_1 - Photos" */;
 			buildPhases = (
 				D039B4B21BF4D7950024005F /* Sources */,
 				D039B4B31BF4D7950024005F /* Frameworks */,
@@ -107,9 +107,9 @@
 			);
 			dependencies = (
 			);
-			name = "0_1 - Music";
+			name = "0_1 - Photos";
 			productName = "0_0 - Empty Template (Swift)";
-			productReference = D039B4B61BF4D7950024005F /* 0_1 - Music.app */;
+			productReference = D039B4B61BF4D7950024005F /* 0_1 - Photos.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -129,7 +129,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D039B4B11BF4D7950024005F /* Build configuration list for PBXProject "0_1 - Music" */;
+			buildConfigurationList = D039B4B11BF4D7950024005F /* Build configuration list for PBXProject "0_1 - Photos" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -142,7 +142,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D039B4B51BF4D7950024005F /* 0_1 - Music */,
+				D039B4B51BF4D7950024005F /* 0_1 - Photos */,
 			);
 		};
 /* End PBXProject section */
@@ -152,9 +152,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0A1496C1FB7458200098EC3 /* Empty.storyboard in Resources */,
-				D0A1496A1FB7458200098EC3 /* Base.lproj in Resources */,
-				D0A1496E1FB7458200098EC3 /* Assets.xcassets in Resources */,
+				D03F6DE01FB7657400F0EF44 /* Assets.xcassets in Resources */,
+				D03F6DE21FB7657400F0EF44 /* Base.lproj in Resources */,
+				D03F6DE11FB7657400F0EF44 /* Empty.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -166,11 +166,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				D039B4BC1BF4D7950024005F /* ViewController.swift in Sources */,
-				D0A149701FB7467200098EC3 /* Music.swift in Sources */,
-				D0A149631FB7457200098EC3 /* DataBackup.swift in Sources */,
+				D03F6DE81FB7657C00F0EF44 /* DataBackup.swift in Sources */,
+				D03F6DE41FB7657400F0EF44 /* Stdcomments.swift in Sources */,
+				D0A149701FB7467200098EC3 /* Photos.swift in Sources */,
+				D03F6DE71FB7657C00F0EF44 /* Globals.swift in Sources */,
 				D039B4BA1BF4D7950024005F /* AppDelegate.swift in Sources */,
-				D0A149641FB7457200098EC3 /* Globals.swift in Sources */,
-				D0A1496B1FB7458200098EC3 /* Stdcomments.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,10 +280,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				INFOPLIST_FILE = "$(SRCROOT)/0_1 - Music/Base/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/0_1 - Photos/Base/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jaostech.music;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jaostech.photos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 			};
@@ -294,10 +294,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				INFOPLIST_FILE = "$(SRCROOT)/0_1 - Music/Base/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/0_1 - Photos/Base/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jaostech.music;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jaostech.photos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 			};
@@ -306,7 +306,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D039B4B11BF4D7950024005F /* Build configuration list for PBXProject "0_1 - Music" */ = {
+		D039B4B11BF4D7950024005F /* Build configuration list for PBXProject "0_1 - Photos" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D039B4C61BF4D7950024005F /* Debug */,
@@ -315,7 +315,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D039B4C81BF4D7950024005F /* Build configuration list for PBXNativeTarget "0_1 - Music" */ = {
+		D039B4C81BF4D7950024005F /* Build configuration list for PBXNativeTarget "0_1 - Photos" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D039B4C91BF4D7950024005F /* Debug */,

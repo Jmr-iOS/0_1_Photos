@@ -1,17 +1,12 @@
 /************************************************************************************************************************************/
-/** @class      Music
- *  @proj       0_1- Music
+/** @class      Photos
+ *  @proj       0_1- Photos
  *  @brief      x
  *  @details    x
  *
  *  @auth       Created by Justin Reina on 11/11/17
  *  @cpr        Copyright © 2017 Jmr. All rights reserved
  *
- *  @section    Hide strange unwanted Xcode logs
- *        https://stackoverflow.com/questions/37800790/hide-strange-unwanted-xcode-logs
- *
- *  @section   Music Access
- *       https://stackoverflow.com/questions/40445062/how-to-access-music-files-stored-on-the-ios-device
  *
  *  @section     Media Player Integration
  *       http://www.theappguruz.com/blog/integrating-media-player-ios-using-swift
@@ -33,7 +28,7 @@ import UIKit
 import MediaPlayer
 
 
-class Music: NSObject {
+class Photos: NSObject {
 
     //Library Vars
     var query : MPMediaQuery;

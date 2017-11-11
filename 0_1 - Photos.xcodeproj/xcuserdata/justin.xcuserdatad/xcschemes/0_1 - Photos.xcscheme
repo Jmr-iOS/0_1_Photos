@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D039B4B51BF4D7950024005F"
-               BuildableName = "0_1 - Music.app"
-               BlueprintName = "0_1 - Music"
-               ReferencedContainer = "container:0_1 - Music.xcodeproj">
+               BuildableName = "0_1 - Photos.app"
+               BlueprintName = "0_1 - Photos"
+               ReferencedContainer = "container:0_1 - Photos.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,9 +34,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D039B4B51BF4D7950024005F"
-            BuildableName = "0_1 - Music.app"
-            BlueprintName = "0_1 - Music"
-            ReferencedContainer = "container:0_1 - Music.xcodeproj">
+            BuildableName = "0_1 - Photos.app"
+            BlueprintName = "0_1 - Photos"
+            ReferencedContainer = "container:0_1 - Photos.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,9 +58,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D039B4B51BF4D7950024005F"
-            BuildableName = "0_1 - Music.app"
-            BlueprintName = "0_1 - Music"
-            ReferencedContainer = "container:0_1 - Music.xcodeproj">
+            BuildableName = "0_1 - Photos.app"
+            BlueprintName = "0_1 - Photos"
+            ReferencedContainer = "container:0_1 - Photos.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <EnvironmentVariables>
@@ -84,9 +84,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D039B4B51BF4D7950024005F"
-            BuildableName = "0_1 - Music.app"
-            BlueprintName = "0_1 - Music"
-            ReferencedContainer = "container:0_1 - Music.xcodeproj">
+            BuildableName = "0_1 - Photos.app"
+            BlueprintName = "0_1 - Photos"
+            ReferencedContainer = "container:0_1 - Photos.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
