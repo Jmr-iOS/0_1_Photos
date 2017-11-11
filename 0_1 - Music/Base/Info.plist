@@ -28,6 +28,10 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Music Access</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Also Music Access</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>

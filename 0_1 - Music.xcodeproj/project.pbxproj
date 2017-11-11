@@ -15,6 +15,7 @@
 		D0A1496B1FB7458200098EC3 /* Stdcomments.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A149661FB7458200098EC3 /* Stdcomments.swift */; };
 		D0A1496C1FB7458200098EC3 /* Empty.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0A149671FB7458200098EC3 /* Empty.storyboard */; };
 		D0A1496E1FB7458200098EC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0A149691FB7458200098EC3 /* Assets.xcassets */; };
+		D0A149701FB7467200098EC3 /* Music.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A1496F1FB7467200098EC3 /* Music.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		D0A149671FB7458200098EC3 /* Empty.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Empty.storyboard; path = "0_1 - Music/Base/Empty.storyboard"; sourceTree = "<group>"; };
 		D0A149681FB7458200098EC3 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "0_1 - Music/Base/Info.plist"; sourceTree = "<group>"; };
 		D0A149691FB7458200098EC3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "0_1 - Music/Base/Assets.xcassets"; sourceTree = "<group>"; };
+		D0A1496F1FB7467200098EC3 /* Music.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Music.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 			children = (
 				D039B4B91BF4D7950024005F /* AppDelegate.swift */,
 				D039B4BB1BF4D7950024005F /* ViewController.swift */,
+				D0A1496F1FB7467200098EC3 /* Music.swift */,
 			);
 			path = "0_1 - Music";
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D039B4BC1BF4D7950024005F /* ViewController.swift in Sources */,
+				D0A149701FB7467200098EC3 /* Music.swift in Sources */,
 				D0A149631FB7457200098EC3 /* DataBackup.swift in Sources */,
 				D039B4BA1BF4D7950024005F /* AppDelegate.swift in Sources */,
 				D0A149641FB7457200098EC3 /* Globals.swift in Sources */,
@@ -277,6 +281,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "$(SRCROOT)/0_1 - Music/Base/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jaostech.music;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -290,6 +295,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "$(SRCROOT)/0_1 - Music/Base/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jaostech.music;
 				PRODUCT_NAME = "$(TARGET_NAME)";

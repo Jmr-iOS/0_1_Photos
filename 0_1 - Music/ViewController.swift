@@ -32,6 +32,8 @@ class ViewController: UIViewController {
         optDemo_addButton(self.view);
         makeAMonsterousLabel(self.view);
         
+        let _ = Music();
+        
         print("ViewController.viewDidLoad():       viewDidLoad() complete");
         
         //listen to 'Home' press
